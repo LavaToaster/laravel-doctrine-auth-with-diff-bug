@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: LaravelDoctrineExample
+        psr4_prefix: LaravelDoctrineExample
+        src_path: app
